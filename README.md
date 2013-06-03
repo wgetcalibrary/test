@@ -1,5 +1,3 @@
 test
 ====
-<?php
-print " hello world"
-?>
+This test readme file created June3, 2013
